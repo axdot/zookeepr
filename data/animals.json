@@ -108,6 +108,19 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "chris",
+      "species": "a silly goose",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
